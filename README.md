@@ -49,13 +49,22 @@ Currently focusing on **AI application engineering** (LLM integrations, RAG, vec
 - Fullstack Developer
 - Back-end Java Developer
 - QA Manual & Automation Tester
+- ## Training (AIT TR)
+- 960 UE theory + 160 hours practical phase (Fullstack / Java Backend / QA Automation)
+
 
 ---
 
 ## GitHub stats (optional)
 
-<img src="https://github-readme-stats.vercel.app/api?username=IngaPal&show_icons=true&hide_title=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=IngaPal&show_icons=true&rank_icon=github" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngaPal&layout=compact" />
+
+<img src="https://streak-stats.demolab.com?user=IngaPal" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IngaPal" />
+<img src="https://github-profile-trophy.vercel.app/?username=IngaPal" />
+
+
 
 ---
 
