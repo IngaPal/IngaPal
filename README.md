@@ -62,9 +62,6 @@ Currently focusing on **AI application engineering** (LLM integrations, RAG, vec
 
 <img src="https://streak-stats.demolab.com?user=IngaPal" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IngaPal" />
-<img src="https://github-profile-trophy.vercel.app/?username=IngaPal" />
-
-
 
 ---
 
