@@ -38,19 +38,9 @@ Currently focusing on **AI application engineering** (LLM integrations, RAG, vec
 |---|---|---|
 | **Online Site** · [Repo](https://github.com/IngaPal/Online_site) | JavaScript · HTML/CSS | Clean UI, structure, responsive layout |
 | **Profile README** · [Repo](https://github.com/IngaPal/IngaPal) | Markdown | Clear profile structure + portfolio links |
-| **Spring Boot API** · _coming soon_ | Java · Spring · PostgreSQL | REST API + DB + validation + Swagger + tests |
+| **TakeProfit — Automatic Crypto Bot (Team Project)** · [Showcase](https://github.com/IngaPal/takeprofit-showcase) | React · TypeScript · Vite · Java · Spring Boot | Fullstack team project: UI + backend API, trading dashboard, team workflow |
 | **AI RAG Assistant** · _coming soon_ | LLM · RAG · Vector DB | Chat + document search + citations + API/UI demo |
 
-> Tip: “coming soon” is OK if you actually plan to build it soon. Otherwise remove those two rows.
-
----
-
-## Roadmap (next 30 days)
-
-- ✅ Improve GitHub portfolio: clean READMEs + pinned repos
-- ⏳ Build **Spring Boot API** demo (CRUD + PostgreSQL + Swagger)
-- ⏳ Add basic tests (JUnit / integration tests) + CI workflow
-- ⏳ Start **AI RAG Assistant**: ingestion → embeddings → retrieval → chat API
 
 ---
 
